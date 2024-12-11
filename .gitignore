@@ -1,2 +1,6 @@
-#ignore ALL files in directory named dataset/ndpi_images
-dataset/ndpi_images
+#ignore ALL files in directory named like that
+dataset/original_dataset
+dataset/patient_wise_dataset/patient_wise_original
+dataset/rational_dataset/rational_original
+*.egg-info
+__pycache__
